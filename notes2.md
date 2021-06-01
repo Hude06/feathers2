@@ -1,3 +1,8 @@
+
+more code
+
+```python
+
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 import time
@@ -25,3 +30,5 @@ while True:
     print("Pressure: %0.1f hPa" % bme280.pressure)
     print("Altitude = %0.2f meters" % bme280.altitude)
     time.sleep(2)
+```
+
