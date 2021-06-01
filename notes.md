@@ -20,7 +20,7 @@ while True:
     time.sleep(1)# Write your code here :-)
 ```
 
-this is iexample code for the presure humid sensor for the feather s2
+this is is example code for the presure humid sensor for the feather s2
 
 ```
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
