@@ -22,7 +22,7 @@ while True:
 
 this is is example code for the presure humid sensor for the feather s2
 
-```
+``` python
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 import time
