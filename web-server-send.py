@@ -20,7 +20,7 @@ print("it works YAY")
 TEXT_URL = "http://wifitest.adafruit.com/testwifi/index.html"
 
 try:
-    wifi.radio.connect("jhome","marykay76")
+    wifi.radio.connect("SSID","YOUR PASCODE")
 except Exeception as e:
     print("error trying to connect" + str(e))
     exit(1)
